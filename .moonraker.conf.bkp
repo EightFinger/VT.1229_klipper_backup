@@ -117,7 +117,7 @@ managed_services = klipper
 [update_manager Klippain-ShakeTune]
 type = git_repo
 path = ~/klippain_shaketune
-channel = dev
+channel = beta
 origin = https://github.com/Frix-x/klippain-shaketune.git
 primary_branch = main
 managed_services = klipper
